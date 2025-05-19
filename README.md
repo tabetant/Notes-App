@@ -1,6 +1,4 @@
-# Notes-App
-Make sure feedbacks.json contains at least an empty array [] when starting
-This is a beginner-friendly full-stack project
+📌 Notes
 ---
 
 ## 📁 2. **Notes App**
@@ -45,3 +43,6 @@ notes-app/
 🔐 CORS Note
 
 If accessing from http://127.0.0.1:5500, CORS is enabled for that origin in server.js.
+
+Make sure feedbacks.json contains at least an empty array [] when starting
+This is a beginner-friendly full-stack project
